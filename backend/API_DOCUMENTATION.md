@@ -132,7 +132,7 @@ DELETE /projects/{id}
 All errors follow a consistent format:
 ```json
 {
-  "status": <HTTP_STATUS_CODE>,
+  "status": "<HTTP_STATUS_CODE>",
   "message": "<ERROR_MESSAGE>",
   "timestamp": "<ISO_8601_TIMESTAMP>"
 }

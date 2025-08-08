@@ -4,9 +4,9 @@ A solar project management system
 
 # Project Structure
 
-- [Backend](./backend/) - Spring Boot application
-- [Frontend](./frontend/) - React application (planned)
-- [Infrastructure](./infra/) - Infrastructure as code (planned)
+- [Backend](./backend) - Spring Boot application
+- [Frontend](./frontend) - React application (planned)
+- [Infrastructure](./infra) - Infrastructure as code (planned)
 
 # Documentation
 
