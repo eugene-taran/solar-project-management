@@ -1,3 +1,7 @@
 # solar-project-management
 
-We want to create a solar project management system
+A solar project management system
+
+# Documentation
+
+Docs are located at [docs folder](./docs/README.md)

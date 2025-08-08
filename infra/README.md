@@ -1,0 +1,1 @@
+# Solar project management infra
